@@ -1,0 +1,10 @@
+{
+  "description": "This secure AI-powered platform streamlines vehicle damage assessments and repair cost estimates for motor insurance professionals, enhancing efficiency and accuracy.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
